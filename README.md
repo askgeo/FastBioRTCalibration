@@ -7,7 +7,7 @@ This script will take in your:
 <br>2. Working directory path
 <br>3. BioRT input folder name
 
-and after one run to set things up, and commenting out the setup section, you can run BioRT and view results and NSE for most recent two runs with one command
+and after one run to set things up, and commenting out the setup section, you can run BioRT and view results and NSE for most recent two runs with one command.
 
 ### Feature wishlist:
 1. streamlined first run
